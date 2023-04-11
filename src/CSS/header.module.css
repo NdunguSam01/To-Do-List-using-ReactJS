@@ -1,0 +1,14 @@
+body
+{
+    /*  Getting rid of the margins around the component */
+    margin: 0;
+    font-family: sans-serif;
+}
+.header
+{
+    background-color: royalblue;
+    height: 50px;
+    font-size: 2em;
+    color: white;
+    padding: 20px;
+}
